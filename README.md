@@ -42,7 +42,7 @@ Boleto (Brazil's pay-slip method) accounts for 19%, reflecting the unique paymen
 | **Customer Geo Map** | Revenue by Brazilian state — filled choropleth map |
 | **Delivery Performance** | On-time vs late delivery impact on review score |
 
-→ [View Live Dashboard](#) ← thay link vào đây
+→ [View Live Dashboard](https://public.tableau.com/views/Olist_Ecommerce_Sales_Analytics/OlistE-CommerceSalesAnalytics20172018?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -76,9 +76,6 @@ olist-ecommerce-analytics/
 │   ├── category_performance.csv
 │   ├── customer_geo.csv
 │   └── delivery_full.csv
-│
-├── dashboard/
-│   └── screenshot.png          # Dashboard preview
 │
 └── README.md
 ```
